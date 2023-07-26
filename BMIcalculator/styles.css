@@ -1,0 +1,13 @@
+body{
+    background-color:#212121;
+    color: #fff;
+}
+
+.result{
+    margin-top:20px;
+    color:#fff;
+    background-color: blue;
+    text-align: center;
+    font-size: 1.4rem;
+    padding:10px;
+}
