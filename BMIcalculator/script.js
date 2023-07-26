@@ -11,7 +11,7 @@ document.querySelector('form').addEventListener('submit',(e)=>{
         display.innerHTML= "please enter a valid weight"
     }
      
-    
+    // convert
 
     else{
         const bmi = w/((h**2)/10000).toFixed(2)
