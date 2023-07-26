@@ -1,0 +1,19 @@
+.button{
+    height: 100px;
+    width: 100px;
+    border:2px solid red;
+}
+
+#gray{
+    background-color: gray;
+}
+#black{
+    background-color:black;
+}
+
+#pink{
+    background-color: pink;
+}
+#orange{
+    background-color: orange;
+}
